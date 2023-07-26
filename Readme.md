@@ -28,7 +28,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
   </a>
   <a href="https://unity.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="filter: invert(100%) sepia(100%) saturate(100%) hue-rotate(100deg) brightness(100%) contrast(100%); fill: #ffffff;" width="40" height="40" />
+    <img src="unity-original.svg" width="40" height="40" />
   </a>
   <h3><br>✨ Developpment System ✨</h3>
   <a href="https://www.microsoft.com" target="_blank" rel="noreferrer">
